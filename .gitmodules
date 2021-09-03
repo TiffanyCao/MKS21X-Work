@@ -1,6 +1,3 @@
-[submodule "MKS21X-Hello"]
-	path = MKS21X-Hello
-	url = https://github.com/TiffanyCao/MKS21X-Hello.git
 [submodule "MKS21X-CtoF"]
 	path = MKS21X-CtoF
 	url = https://github.com/TiffanyCao/MKS21X-CtoF.git
